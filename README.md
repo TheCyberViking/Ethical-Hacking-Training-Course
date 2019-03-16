@@ -3,3 +3,5 @@ This is a course I put together for the Ethical Hacker Society of the Technologi
 
 Twitter @HackerSoc
 www.hackersoc.com
+
+This course was designed to be given with more talking then reading, and was delivered in lecture style to between 50 to 80 people each week
